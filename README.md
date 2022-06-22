@@ -13,7 +13,7 @@ The code is neatly organised with proper comments which gives proper knowledge a
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/nikhilhat/guessTheNumber.git)
 ```
 
 Go to the project directory
