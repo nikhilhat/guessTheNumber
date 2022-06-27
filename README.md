@@ -32,4 +32,9 @@ Start the live server
   and enjoy 💫
 
 ```
+The firebase link for this project is 
+
+```bash
+  https://gtn-20.web.app/
+```
 
